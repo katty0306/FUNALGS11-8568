@@ -27,4 +27,5 @@ for (int x = 0; x < edificio2.Length; x++) {
 }
 
 Console.WriteLine("Correcion 2");
+Console.WriteLine("Ajustre especial en fix");
 Console.WriteLine("nada");
